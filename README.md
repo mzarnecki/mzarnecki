@@ -56,10 +56,10 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
    *Train CNNs for self-driving cars or CAPTCHA recognition.*
 
 ### 🛩️ **Robotics & Drones**
-- [**Flying Drone Object Detection**](https://github.com/rzarno/flying-drone-object-detection) 🚁  
-   *DJI Ryze Tello drone detects human faces and reacts.*
 - [**Self-Driving Car**](https://github.com/rzarno/self-driving-car-raspberry) 🚗  
    *Raspberry Pi-powered car using TensorFlow CNN.*
+- [**Flying Drone Object Detection**](https://github.com/rzarno/flying-drone-object-detection) 🚁  
+   *DJI Ryze Tello drone detects human faces and reacts.*
 
 ---
 
