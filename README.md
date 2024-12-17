@@ -1,4 +1,4 @@
-## EXPERIMENT 🧪 FAIL 📉 LEARN 🧠 REPEAT ∞ SUCCEED 🚀
+## EXPERIMENT 🧪 FAIL 📉 LEARN 🧠 REPEAT 🔁 SUCCEED 🚀
 
 Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educator. I specialize in building innovative systems and solutions at the intersection of artificial intelligence, machine learning, and data-driven technologies. With a strong foundation in Python and PHP, my work focuses on delivering impactful results and web based systems in areas such as data mining, big data, and natural language processing.
 
