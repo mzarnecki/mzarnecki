@@ -39,7 +39,7 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
 ---
 
 ### 🏥 **Health Tech**
-- [**Parkinson FOG Prediction**](https://github.com/rzarno/parkinson-fog-prediction) 🏃‍♂️  
+- [**Parkinson FOG Prediction**](https://github.com/rzarno/parkinson-fog-prediction) ✙  
    *Predict Freezing of Gait events with motion sensor data.*
 
 ---
