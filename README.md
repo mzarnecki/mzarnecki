@@ -20,46 +20,37 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
   <tr>
     <td valign="top">
 
-### 🤖 **AI & ML Projects**
+### 🤖 **AI & ML Python Projects & Examples **
 - [**Generative AI with Python**](https://github.com/rzarno/course-generative-ai-python) 🐍  
    *Course about generative AI with Jupyter notebooks: Transformers, LangChain, and LlamaIndex.*
-
+- [**LLM Chatbot with RAG**](https://github.com/rzarno/llm-chatbot-rag-langchain) 💬  
+   *Chatbot using GPT-4, LangChain, and RAG.*    
 - [**Industry Text Classification**](https://github.com/rzarno/companyDescriptionClassification) 🏢  
    *Classify texts into 1835 German industry categories using LLM + RAG.*
-
-- [**PHP-RAG**](https://github.com/rzarno/php-rag) 🔍  
-   *Combine GPT-4 and RAG to retrieve context-aware information and generate text.*  
-
 - [**NER Training with spaCy**](https://github.com/rzarno/train-ner-model-with-spacy) 🔖  
    *Train custom NER models using JSON datasets.*
-
 - [**Supervised ML Examples**](https://github.com/rzarno/supervised-machine-learning-full-examples) 📊  
    *Full ML workflows for regression and classification.*
-
-- [**CNN in PHP**](https://github.com/rzarno/phpcnn) 🖥️  
-   *Train CNNs for self-driving cars or CAPTCHA recognition.*
-
 - [**Neural Network Perceptron**](https://github.com/rzarno/neural-network-perceptron-in-python) 🧠 
-   *Build and train perceptrons for regression and classification.*
-
-- [**ML in PHP Templates**](https://github.com/rzarno/ml-in-php-start-templates) 🛠️  
-   *Starter templates for integrating ML models into PHP projects.*
-  
+   *Build and train perceptrons for regression and classification.*  
 - [**Speech Recognition**](https://github.com/rzarno/speech-recognition-api-example) 🎤  
    *Record and recognize speech in Python.*
-
-- [**LLM Chatbot with RAG**](https://github.com/rzarno/llm-chatbot-rag-langchain) 💬  
-   *Chatbot using GPT-4, LangChain, and RAG.*  
 
 ---
 
 </td>
 <td valign="top">
+### 🐘 **Machine Learning in PHP**
+- [**PHP-RAG**](https://github.com/rzarno/php-rag) 🔍  
+   *Combine GPT-4 and RAG to retrieve context-aware information and generate text.*  
+- [**ML in PHP Templates**](https://github.com/rzarno/ml-in-php-start-templates) 🛠️  
+   *Starter templates for integrating ML models into PHP projects.*
+- [**CNN in PHP**](https://github.com/rzarno/phpcnn) 🖥️  
+   *Train CNNs for self-driving cars or CAPTCHA recognition.*
 
 ### 🛩️ **Robotics & Drones**
 - [**Flying Drone Object Detection**](https://github.com/rzarno/flying-drone-object-detection) 🚁  
    *DJI Ryze Tello drone detects human faces and reacts.*
-
 - [**Self-Driving Car**](https://github.com/rzarno/self-driving-car-raspberry) 🚗  
    *Raspberry Pi-powered car using TensorFlow CNN.*
 
