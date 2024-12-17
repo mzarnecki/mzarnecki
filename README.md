@@ -21,14 +21,14 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
     <td valign="top">
 
 ### 🤖 **AI & ML Projects**
-- [**PHP-RAG**](https://github.com/rzarno/php-rag) 🔍  
-   *Combine GPT-4 and RAG to retrieve context-aware information and generate text.*
-
 - [**Generative AI with Python**](https://github.com/rzarno/course-generative-ai-python) 🐍  
-   *Jupyter notebooks: Transformers, LangChain, and LlamaIndex.*
+   *Course about generative AI with Jupyter notebooks: Transformers, LangChain, and LlamaIndex.*
 
 - [**Industry Text Classification**](https://github.com/rzarno/companyDescriptionClassification) 🏢  
    *Classify texts into 1835 German industry categories using LLM + RAG.*
+
+- [**PHP-RAG**](https://github.com/rzarno/php-rag) 🔍  
+   *Combine GPT-4 and RAG to retrieve context-aware information and generate text.*  
 
 - [**NER Training with spaCy**](https://github.com/rzarno/train-ner-model-with-spacy) 🔖  
    *Train custom NER models using JSON datasets.*
@@ -36,17 +36,20 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
 - [**Supervised ML Examples**](https://github.com/rzarno/supervised-machine-learning-full-examples) 📊  
    *Full ML workflows for regression and classification.*
 
-- [**ML in PHP Templates**](https://github.com/rzarno/ml-in-php-start-templates) 🛠️  
-   *Starter templates for integrating ML models into PHP projects.*
-
----
-
-### 🧠 **Neural Networks**
 - [**CNN in PHP**](https://github.com/rzarno/phpcnn) 🖥️  
    *Train CNNs for self-driving cars or CAPTCHA recognition.*
 
-- [**Neural Network Perceptron**](https://github.com/rzarno/neural-network-perceptron-in-python) ⚙️  
+- [**Neural Network Perceptron**](https://github.com/rzarno/neural-network-perceptron-in-python) 🧠 
    *Build and train perceptrons for regression and classification.*
+
+- [**ML in PHP Templates**](https://github.com/rzarno/ml-in-php-start-templates) 🛠️  
+   *Starter templates for integrating ML models into PHP projects.*
+  
+- [**Speech Recognition**](https://github.com/rzarno/speech-recognition-api-example) 🎤  
+   *Record and recognize speech in Python.*
+
+- [**LLM Chatbot with RAG**](https://github.com/rzarno/llm-chatbot-rag-langchain) 💬  
+   *Chatbot using GPT-4, LangChain, and RAG.*  
 
 ---
 
@@ -59,15 +62,6 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
 
 - [**Self-Driving Car**](https://github.com/rzarno/self-driving-car-raspberry) 🚗  
    *Raspberry Pi-powered car using TensorFlow CNN.*
-
----
-
-### 🎙️ **Speech & Chatbots**
-- [**Speech Recognition**](https://github.com/rzarno/speech-recognition-api-example) 🎤  
-   *Record and recognize speech in Python.*
-
-- [**LLM Chatbot with RAG**](https://github.com/rzarno/llm-chatbot-rag-langchain) 💬  
-   *Chatbot using GPT-4, LangChain, and RAG.*
 
 ---
 
