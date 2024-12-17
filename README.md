@@ -20,7 +20,7 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
   <tr>
     <td valign="top">
 
-### 🤖 **AI & ML Python Projects & Examples **
+### 🤖 AI & ML Python Projects & Examples 
 - [**Generative AI with Python**](https://github.com/rzarno/course-generative-ai-python) 🐍  
    *Course about generative AI with Jupyter notebooks: Transformers, LangChain, and LlamaIndex.*
 - [**LLM Chatbot with RAG**](https://github.com/rzarno/llm-chatbot-rag-langchain) 💬  
@@ -31,7 +31,7 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
    *Train custom NER models using JSON datasets.*
 - [**Supervised ML Examples**](https://github.com/rzarno/supervised-machine-learning-full-examples) 📊  
    *Full ML workflows for regression and classification.*
-- [**Neural Network Perceptron**](https://github.com/rzarno/neural-network-perceptron-in-python) 🧠 
+- [**Neural Network Perceptron**](https://github.com/rzarno/neural-network-perceptron-in-python) 🧠 \
    *Build and train perceptrons for regression and classification.*  
 - [**Speech Recognition**](https://github.com/rzarno/speech-recognition-api-example) 🎤  
    *Record and recognize speech in Python.*
