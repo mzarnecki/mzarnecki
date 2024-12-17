@@ -40,6 +40,7 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
 
 </td>
 <td valign="top">
+  
 ### 🐘 **Machine Learning in PHP**
 - [**PHP-RAG**](https://github.com/rzarno/php-rag) 🔍  
    *Combine GPT-4 and RAG to retrieve context-aware information and generate text.*  
