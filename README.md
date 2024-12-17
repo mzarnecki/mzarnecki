@@ -26,7 +26,7 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
 - [**LLM Chatbot with RAG**](https://github.com/rzarno/llm-chatbot-rag-langchain) 💬  
    *Chatbot using GPT-4, LangChain, and RAG.*    
 - [**Industry Text Classification**](https://github.com/rzarno/companyDescriptionClassification) 🏢  
-   *Classify texts into 1835 German industry categories using LLM + RAG.*
+   *Classify company description texts into industry categories using LLM + RAG.*
 - [**NER Training with spaCy**](https://github.com/rzarno/train-ner-model-with-spacy) 🔖  
    *Train custom NER models using JSON datasets.*
 - [**Supervised ML Examples**](https://github.com/rzarno/supervised-machine-learning-full-examples) 📊  
