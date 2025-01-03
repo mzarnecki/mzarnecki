@@ -8,25 +8,25 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
     <td valign="top">
 
 ### 🤖 AI & ML Python Projects & Examples 
-- [**Generative AI with Python**](https://github.com/brightcodex/course-generative-ai-python) 🐍  
+- [**Generative AI with Python**](https://github.com/mzarnecki/course-generative-ai-python) 🐍  
    *Course about generative AI with Jupyter notebooks: Transformers, LangChain, and LlamaIndex.*
-- [**LLM Chatbot with RAG**](https://github.com/brightcodex/llm-chatbot-rag-langchain) 💬  
+- [**LLM Chatbot with RAG**](https://github.com/mzarnecki/llm-chatbot-rag-langchain) 💬  
    *Chatbot using GPT-4, LangChain, and RAG.*    
-- [**Industry Text Classification**](https://github.com/brightcodex/companyDescriptionClassification) 🏢  
+- [**Industry Text Classification**](https://github.com/mzarnecki/companyDescriptionClassification) 🏢  
    *Classify company description texts into industry categories using LLM + RAG.*
-- [**NER Training with spaCy**](https://github.com/brightcodex/train-ner-model-with-spacy) 🔖  
+- [**NER Training with spaCy**](https://github.com/mzarnecki/train-ner-model-with-spacy) 🔖  
    *Train custom NER models using JSON datasets.*
-- [**Supervised ML Examples**](https://github.com/brightcodex/supervised-machine-learning-full-examples) 📊  
+- [**Supervised ML Examples**](https://github.com/mzarnecki/supervised-machine-learning-full-examples) 📊  
    *Full ML workflows for regression and classification.*
-- [**Neural Network Perceptron**](https://github.com/brightcodex/neural-network-perceptron-in-python) 🧠 \
+- [**Neural Network Perceptron**](https://github.com/mzarnecki/neural-network-perceptron-in-python) 🧠 \
    *Build and train perceptrons for regression and classification.*  
-- [**Speech Recognition**](https://github.com/brightcodex/speech-recognition-api-example) 🎤  
+- [**Speech Recognition**](https://github.com/mzarnecki/speech-recognition-api-example) 🎤  
    *Record and recognize speech in Python.*
 
 ---
 
 ### 🏥 **Health Tech**
-- [**Parkinson FOG Prediction**](https://github.com/brightcodex/parkinson-fog-prediction) ✙  
+- [**Parkinson FOG Prediction**](https://github.com/mzarnecki/parkinson-fog-prediction) ✙  
    *Predict Freezing of Gait events with motion sensor data.*
 
 ---
@@ -35,17 +35,17 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
 <td valign="top">
   
 ### 🐘 **Machine Learning in PHP**
-- [**PHP-RAG**](https://github.com/brightcodex/php-rag) 🔍  
+- [**PHP-RAG**](https://github.com/mzarnecki/php-rag) 🔍  
    *Combine GPT-4 and RAG to retrieve context-aware information and generate text.*  
-- [**ML in PHP Templates**](https://github.com/brightcodex/ml-in-php-start-templates) 🛠️  
+- [**ML in PHP Templates**](https://github.com/mzarnecki/ml-in-php-start-templates) 🛠️  
    *Starter templates for integrating ML models into PHP projects.*
-- [**CNN in PHP**](https://github.com/brightcodex/phpcnn) 🖥️  
+- [**CNN in PHP**](https://github.com/mzarnecki/phpcnn) 🖥️  
    *Train CNNs for self-driving cars or CAPTCHA recognition.*
 
 ### 🛩️ **Robotics & Drones**
-- [**Self-Driving Car**](https://github.com/brightcodex/self-driving-car-raspberry) 🚗  
+- [**Self-Driving Car**](https://github.com/mzarnecki/self-driving-car-raspberry) 🚗  
    *Raspberry Pi-powered car using TensorFlow CNN.*
-- [**Flying Drone Object Detection**](https://github.com/brightcodex/flying-drone-object-detection) 🚁  
+- [**Flying Drone Object Detection**](https://github.com/mzarnecki/flying-drone-object-detection) 🚁  
    *DJI Ryze Tello drone detects human faces and reacts.*
 
 ---
@@ -63,13 +63,13 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
 <details>
   <summary><b>📈 My GitHub Stats</b></summary>
   <br />
-  <a href="http://www.github.com/brightcodex"><img src="https://github-readme-stats.vercel.app/api?username=brightcodex&show_icons=true&hide=issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Michał Żarnecki's GitHub stats" /></a>
+  <a href="http://www.github.com/mzarnecki"><img src="https://github-readme-stats.vercel.app/api?username=mzarnecki&show_icons=true&hide=issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Michał Żarnecki's GitHub stats" /></a>
 </details>
 <p>
-  <a href="https://github.com/brightcodex?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/brightcodex?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star"/></a>
-  <a href="https://github.com/brightcodex?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/brightcodex?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/mzarnecki?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mzarnecki?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star"/></a>
+  <a href="https://github.com/mzarnecki?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mzarnecki?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 
