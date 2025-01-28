@@ -71,5 +71,5 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
 
 
 Explore, contribute, and connect with me! Let's build something amazing. 🚀  
-💼 **Portfolio:** [Portfolio](http://zarnecki.pl)
-📜 **Medium Articles:** [Medium Articles](https://medium.com/@michalzarnecki88)
+💼 **Portfolio:** [Portfolio](https://brightcode.pl)
+📜 **Medium Articles:** [Medium Articles](https://medium.com/@brightcode)
