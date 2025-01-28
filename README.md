@@ -60,14 +60,14 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
 </tr>
 </table>
 
-  <summary><b>📈 My GitHub Stats</b></summary>
+###<b>📈 My GitHub Stats</b>
   <br />
   <a href="http://www.github.com/mzarnecki"><img src="https://github-readme-stats.vercel.app/api?username=mzarnecki&show_icons=true&hide=issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" alt="Michał Żarnecki's GitHub stats" /></a>
 <p>
   <a href="https://github.com/mzarnecki?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mzarnecki?color=236ad3&style=for-the-badge&labelColor=1155ba&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mzarnecki?color=236ad3&style=for-the-badge&labelColor=1155bb&logo=star"/></a>
   <a href="https://github.com/mzarnecki?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mzarnecki?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mzarnecki?color=236ad3&labelColor=1155bb&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 
