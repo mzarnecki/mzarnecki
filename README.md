@@ -10,6 +10,8 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
 ### 🤖 AI & ML Python Projects & Examples 
 - [**Generative AI with Python**](https://github.com/mzarnecki/course-generative-ai-python) 🐍  
    *Course about generative AI with Jupyter notebooks: Transformers, LangChain, and LlamaIndex.*
+- [**AI CODE BASE EXPERT**](https://github.com/mzarnecki/ai-codebase-expert) 🤖
+  *Support solving development tasks and bug-fix tickets in large projects by giving LLM agent access to code base.*
 - [**LLM Chatbot with RAG**](https://github.com/mzarnecki/llm-chatbot-rag-langchain) 💬  
    *Chatbot using GPT-4, LangChain, and RAG.*    
 - [**Industry Text Classification**](https://github.com/mzarnecki/companyDescriptionClassification) 🏢  
