@@ -66,10 +66,8 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
 
 ### <b>📈 My GitHub Stats</b>
   <a href="http://www.github.com/mzarnecki"><img src="https://github-readme-stats.vercel.app/api?username=mzarnecki&show_icons=true&hide=issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true" alt="Michał Żarnecki's GitHub stats" /></a>
-<p>
   <a href="https://github.com/mzarnecki?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mzarnecki?color=236ad3&labelColor=1155bb&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
 
 
 Explore, contribute, and connect with me! Let's build something amazing. 🚀  
