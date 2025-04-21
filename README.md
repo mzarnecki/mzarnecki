@@ -12,7 +12,7 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
    *Course about generative AI with Jupyter notebooks: Transformers, LangChain, and LlamaIndex.*
 - [**AI CODE BASE EXPERT**](https://github.com/mzarnecki/ai-codebase-expert) 🤖
   *Support solving development tasks and bug-fix tickets in large projects by giving LLM agent access to code base.*
-- [**Financial reports analysis with AI GPT & AWS Bedrock**](https://github.com/mzarnecki/FinGPT)) 💲
+- [**Financial reports analysis with AI GPT & AWS Bedrock**](https://github.com/mzarnecki/FinGPT) 💲
   *Support solving development tasks and bug-fix tickets in large projects by giving LLM agent access to code base.*
 - [**Industry Text Classification**](https://github.com/mzarnecki/companyDescriptionClassification) 🏢  
   *Classify company description texts into industry categories using LLM + RAG.*
