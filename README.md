@@ -41,6 +41,8 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
 ### 🐘 **Machine Learning in PHP**
 - [**PHP-RAG**](https://github.com/mzarnecki/php-rag) 🔍  
    *Combine GPT-4 and RAG to retrieve context-aware information and generate text.*
+- [**LLPhant Framework**](https://github.com/LLPhant/LLPhant) 🧩  
+   *LLM/AI PHP comprehensive framework. My contribution covers evaluation, A/B testing and guardrails.*
 - [**LLM OUTPUT EVALUATION**](https://github.com/mzarnecki/php-llm-evaluation) ✅  
    *Package with tools for evaluating LLMs and AI agent responses with different strategies.* 
 - [**ML in PHP Templates**](https://github.com/mzarnecki/ml-in-php-start-templates) 🛠️  
