@@ -8,14 +8,14 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
     <td valign="top">
 
 ### 🤖 AI & ML Python Projects & Examples 
-- [**LLM Chatbot with RAG**](https://github.com/mzarnecki/llm-chatbot-rag-langchain) 💬  
-   *Chatbot using GPT-4, LangChain, and RAG.*    
 - [**FinGPT balance sheet analysyis**](https://github.com/mzarnecki/FinGPT) 💲
   *Financial reports analysis with AI GPT & AWS Bedrock (forked from FinGPT).*
-- [**NER Training with spaCy**](https://github.com/mzarnecki/train-ner-model-with-spacy) 🔖  
-   *Train custom NER models using JSON datasets.*
 - [**Industry Text Classification**](https://github.com/mzarnecki/companyDescriptionClassification) 🏢  
   *Classify company description texts into industry categories using LLM + RAG.*
+- [**LLM Chatbot with RAG**](https://github.com/mzarnecki/llm-chatbot-rag-langchain) 💬  
+   *Chatbot using GPT-4, LangChain, and RAG.*      
+- [**NER Training with spaCy**](https://github.com/mzarnecki/train-ner-model-with-spacy) 🔖  
+   *Train custom NER models using JSON datasets.*
 - [**AI CODE BASE EXPERT**](https://github.com/mzarnecki/ai-codebase-expert) 🤖
   *Support solving development tasks and bug-fix tickets in large projects by giving LLM agent access to code base.*
 
