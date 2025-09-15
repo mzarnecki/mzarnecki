@@ -8,18 +8,24 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
     <td valign="top">
 
 ### 🤖 AI & ML Python Projects & Examples 
-- [**Generative AI with Python**](https://github.com/mzarnecki/course-generative-ai-python) 🐍  
-   *Course about generative AI with Jupyter notebooks: Transformers, LangChain, and LlamaIndex.*
-- [**AI CODE BASE EXPERT**](https://github.com/mzarnecki/ai-codebase-expert) 🤖
-  *Support solving development tasks and bug-fix tickets in large projects by giving LLM agent access to code base.*
-- [**FinGPT balance sheet analysyis**](https://github.com/mzarnecki/FinGPT) 💲
-  *Financial reports analysis with AI GPT & AWS Bedrock (forked from FinGPT).*
-- [**Industry Text Classification**](https://github.com/mzarnecki/companyDescriptionClassification) 🏢  
-  *Classify company description texts into industry categories using LLM + RAG.*
-- [**NER Training with spaCy**](https://github.com/mzarnecki/train-ner-model-with-spacy) 🔖  
-   *Train custom NER models using JSON datasets.*
 - [**LLM Chatbot with RAG**](https://github.com/mzarnecki/llm-chatbot-rag-langchain) 💬  
    *Chatbot using GPT-4, LangChain, and RAG.*    
+- [**FinGPT balance sheet analysyis**](https://github.com/mzarnecki/FinGPT) 💲
+  *Financial reports analysis with AI GPT & AWS Bedrock (forked from FinGPT).*
+- [**NER Training with spaCy**](https://github.com/mzarnecki/train-ner-model-with-spacy) 🔖  
+   *Train custom NER models using JSON datasets.*
+- [**Industry Text Classification**](https://github.com/mzarnecki/companyDescriptionClassification) 🏢  
+  *Classify company description texts into industry categories using LLM + RAG.*
+- [**AI CODE BASE EXPERT**](https://github.com/mzarnecki/ai-codebase-expert) 🤖
+  *Support solving development tasks and bug-fix tickets in large projects by giving LLM agent access to code base.*
+
+---
+
+### 🎓 AI & ML Education & courses
+- [**LLM & AI Agents Apps with LangChain & LangGraph 2025**](https://github.com/mzarnecki/course_llm_agent_apps_with_langchain_and_langgraph)
+Jupyter Notebooks with examples for the course "Building LLM-based applications and AI agents with LangChain and LangGraph"
+- [**Generative AI with Python 2024**](https://github.com/mzarnecki/course-generative-ai-python) 🐍  
+   *Course about generative AI with Jupyter notebooks: Transformers, LangChain, and LlamaIndex.*
 - [**Supervised ML Examples**](https://github.com/mzarnecki/supervised-machine-learning-full-examples) 📊  
    *Full ML workflows for regression and classification.*
 - [**Neural Network Perceptron**](https://github.com/mzarnecki/neural-network-perceptron-in-python) 🧠 \
