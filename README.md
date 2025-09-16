@@ -16,7 +16,7 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
    *Chatbot using GPT-4, LangChain, and RAG.*      
 - [**NER Training with spaCy**](https://github.com/mzarnecki/train-ner-model-with-spacy) 🔖  
    *Train custom NER models using JSON datasets.*
-- [**AI CODE BASE EXPERT**](https://github.com/mzarnecki/ai-codebase-expert) 🤖
+- [**AI CODE BASE EXPERT**](https://github.com/mzarnecki/ai-codebase-expert) 🤖   
   *Support solving development tasks and bug-fix tickets in large projects by giving LLM agent access to code base.*
 
 ---
