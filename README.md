@@ -25,7 +25,7 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
 - [**Industry Text Classification**](https://github.com/mzarnecki/companyDescriptionClassification) 🏢  
   *Classify company description texts into industry categories using LLM + RAG.*
 - [**LLM Chatbot with RAG**](https://github.com/mzarnecki/llm-chatbot-rag-langchain) 💬  
-   *Chatbot using GPT-4, LangChain, and RAG.*      
+   *Chatbot using GPT, LangChain, and RAG.*      
 - [**NER Training with spaCy**](https://github.com/mzarnecki/train-ner-model-with-spacy) 🔖  
    *Train custom NER models using JSON datasets.*
 - [**AI CODE BASE EXPERT**](https://github.com/mzarnecki/ai-codebase-expert) 🤖   
@@ -44,7 +44,7 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
   
 ### 🐘 **Machine Learning in PHP**
 - [**PHP-RAG**](https://github.com/mzarnecki/php-rag) 🔍  
-   *Combine GPT-4 and RAG to retrieve context-aware information and generate text.*
+   *Combine GPT-5 and RAG to retrieve context-aware information and generate text.*
 - [**LLPhant Framework**](https://github.com/LLPhant/LLPhant) 🧩  
    *LLPhant is LLM/AI comprehensive framework for PHP. My contribution covers evaluation, A/B testing and guardrails.*
 - [**LLM OUTPUT EVALUATION**](https://github.com/mzarnecki/php-llm-evaluation) ✅  
