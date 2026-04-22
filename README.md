@@ -12,12 +12,12 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
   *Jupyter notebooks with examples for the course "Building LLM-based applications and AI agents with LangChain and LangGraph".*
 - [**Generative AI with Python 2024**](https://github.com/mzarnecki/course-generative-ai-python) 📑  
   *Course materials and Jupyter notebooks covering transformers, LangChain, and LlamaIndex.*
+- [**Time Series Analysis**](https://github.com/mzarnecki/time-series-analysis) ⏳  
+  *Examples and materials for time series analysis and forecasting.*
 - [**Supervised ML Examples**](https://github.com/mzarnecki/supervised-machine-learning-full-examples) 📊  
   *Complete machine learning workflows for regression and classification.*
 - [**Neural Network Perceptron**](https://github.com/mzarnecki/neural-network-perceptron-in-python) 🧠  
   *Build and train perceptrons for regression and classification.*
-- [**Time Series Analysis**](https://github.com/mzarnecki/time-series-analysis) ⏳  
-  *Examples and materials for time series analysis and forecasting.*
 
 ---
 
@@ -28,10 +28,10 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
   *Classify company descriptions into industry categories using LLMs and RAG.*
 - [**LLM Chatbot with RAG**](https://github.com/mzarnecki/llm-chatbot-rag-langchain) 💬  
   *Chatbot built with GPT, LangChain, and Retrieval-Augmented Generation.*
-- [**NER Training with spaCy**](https://github.com/mzarnecki/train-ner-model-with-spacy) 🔖  
-  *Train custom Named Entity Recognition models using JSON datasets.*
 - [**Serverless ML API on AWS**](https://github.com/mzarnecki/serverless-ml-api-aws) ☁️  
   *Deploy and serve a machine learning model as a serverless API on AWS.*
+- [**NER Training with spaCy**](https://github.com/mzarnecki/train-ner-model-with-spacy) 🔖  
+  *Train custom Named Entity Recognition models using JSON datasets.*
 
 ---
 
