@@ -30,7 +30,12 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
   *Chatbot built with GPT, LangChain, and Retrieval-Augmented Generation.*
 - [**NER Training with spaCy**](https://github.com/mzarnecki/train-ner-model-with-spacy) 🔖  
   *Train custom Named Entity Recognition models using JSON datasets.*
+---
 
+### 🏥 Health Tech
+- [**Parkinson FOG Prediction**](https://github.com/mzarnecki/parkinson-fog-prediction) ✙  
+  *Predict Freezing of Gait events using motion sensor data.*
+  
 ---
 
 </td>
@@ -67,12 +72,6 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
 ### ⚙️ Algorithms
 - [**The Algorithms - PHP**](https://github.com/TheAlgorithms/PHP) 🧩  
   *PHP implementations of classic algorithms for education.*
-
----
-
-### 🏥 Health Tech
-- [**Parkinson FOG Prediction**](https://github.com/mzarnecki/parkinson-fog-prediction) ✙  
-  *Predict Freezing of Gait events using motion sensor data.*
 
 ---
 
