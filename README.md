@@ -28,8 +28,6 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
   *Classify company descriptions into industry categories using LLMs and RAG.*
 - [**LLM Chatbot with RAG**](https://github.com/mzarnecki/llm-chatbot-rag-langchain) 💬  
   *Chatbot built with GPT, LangChain, and Retrieval-Augmented Generation.*
-- [**Serverless ML API on AWS**](https://github.com/mzarnecki/serverless-ml-api-aws) ☁️  
-  *Deploy and serve a machine learning model as a serverless API on AWS.*
 - [**NER Training with spaCy**](https://github.com/mzarnecki/train-ner-model-with-spacy) 🔖  
   *Train custom Named Entity Recognition models using JSON datasets.*
 
@@ -47,6 +45,16 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
   *Package with tools for evaluating LLM and AI agent responses using different strategies.*
 - [**CNN in PHP**](https://github.com/mzarnecki/phpcnn) 🖥️  
   *Train CNNs for self-driving cars or CAPTCHA recognition.*
+---
+
+### ☁️ Cloud Computing
+- [**Serverless ML API on AWS**](https://github.com/mzarnecki/serverless-ml-api-aws) λ  
+  *Deploy and serve a machine learning model as a serverless API on AWS.*
+
+- [**AWS AI services with boto3 library**](https://github.com/mzarnecki/aws-ai-services-example) 🧠   
+  *Examples of accessing AWS AI services using boto3 library.*  
+
+---
 
 ### 🛩️ Robotics & Drones
 - [**Self-Driving Car**](https://github.com/mzarnecki/self-driving-car-raspberry) 🚗  
