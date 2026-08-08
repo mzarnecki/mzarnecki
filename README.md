@@ -16,6 +16,8 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
   *Examples and materials for serving and monitoring ML models and AI-based projects.*
 - [**Time Series Analysis**](https://github.com/mzarnecki/time-series-analysis) ⏳  
   *Examples and materials for time series analysis and forecasting.*
+- [**Analytics with Machine Learning**](https://github.com/mzarnecki/analytics-with-machine-learning) ✨  
+  *Examples of applying machine learning to analytical tasks.*
 - [**Supervised ML Examples**](https://github.com/mzarnecki/supervised-machine-learning-full-examples) 📊  
   *Complete machine learning workflows for regression and classification.*
 - [**Neural Network Perceptron**](https://github.com/mzarnecki/neural-network-perceptron-in-python) 🧠  
