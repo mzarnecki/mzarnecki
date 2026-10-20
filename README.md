@@ -8,10 +8,8 @@ Hi, I'm Michał Żarnecki — Programmer, Machine Learning Specialist, and Educa
     <td valign="top">
 
 ### 🎓 AI & ML Education & Courses
-- [**AI Agent Apps with LangChain & LangGraph 2025/2026**](https://github.com/mzarnecki/course_llm_agent_apps_with_langchain_and_langgraph) 🔗  
+- [**AI Agent Apps with LangChain & LangGraph 2026**](https://github.com/mzarnecki/course_llm_agent_apps_with_langchain_and_langgraph) 🔗  
   *Jupyter notebooks with examples for the course "Building LLM-based applications and AI agents with LangChain and LangGraph".*
-- [**Generative AI with Python 2024**](https://github.com/mzarnecki/course-generative-ai-python) 📑  
-  *Course materials and Jupyter notebooks covering transformers, LangChain, and LlamaIndex.*
 - [**MLOps Practical Examples**](https://github.com/mzarnecki/mlops-practical-examples) ⚙️  
   *Examples and materials for serving and monitoring ML models and AI-based projects.*
 - [**Time Series Analysis**](https://github.com/mzarnecki/time-series-analysis) ⏳  
